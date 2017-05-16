@@ -4,11 +4,7 @@ web overlay are provided by the ezAR&trade; VideoOverlay plugin. Points
 of Interests location, object shapes and rendering are provided by the 
 [awe.js](https://github.com/awe-media/awe.js) library.
 
-See index.js for core POI shape, styling and positioning logic.  
-![logo](screenshot.png)
-
-
-##Getting Started
+##Getting Started  
 While ezAR works with Cordova-based SDKs such as Ionic, only Cordova CLI examples are provided below. 
 This example was built and tested with Cordova 6.5 and only uses the VideoOverlay plugin.
 
@@ -36,11 +32,10 @@ includes the required VideoOverlay plugin.
   
 ##License
 See [modified MIT license](LICENSE).  
-  
+
 ##Credits
 The project code was adapted from the awe.js VR example.
 [awe.js github](https://github.com/awe-media/awe.js)  
-  
 
 ##ezAR Docs and Tech Support
 See [ezartech.com](http://ezartech.com) for documentation and support.
