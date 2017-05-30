@@ -9,7 +9,7 @@ Desktop.ini
 $RECYCLE.BIN/
 
 #cordova project resources
-plugins/
+plugins/*
 platforms/
 jsconfig.json
 .vscode/
